@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/baron_effeh_portfolio/static/css/main.4c413095.css",
-    "main.js": "/baron_effeh_portfolio/static/js/main.2c6d5bb8.js",
+    "main.js": "/baron_effeh_portfolio/static/js/main.1054de63.js",
     "static/media/formComponent.gif": "/baron_effeh_portfolio/static/media/formComponent.b930a686bbcc03a1a8ba.gif",
     "static/media/todo-app.png": "/baron_effeh_portfolio/static/media/todo-app.0e4d2034a8f87ae74430.png",
     "static/media/todo-app-dark-mode.png": "/baron_effeh_portfolio/static/media/todo-app-dark-mode.5efea3f17a49e89942e2.png",
@@ -13,10 +13,10 @@
     "static/media/instagram.png": "/baron_effeh_portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
     "index.html": "/baron_effeh_portfolio/index.html",
     "main.4c413095.css.map": "/baron_effeh_portfolio/static/css/main.4c413095.css.map",
-    "main.2c6d5bb8.js.map": "/baron_effeh_portfolio/static/js/main.2c6d5bb8.js.map"
+    "main.1054de63.js.map": "/baron_effeh_portfolio/static/js/main.1054de63.js.map"
   },
   "entrypoints": [
     "static/css/main.4c413095.css",
-    "static/js/main.2c6d5bb8.js"
+    "static/js/main.1054de63.js"
   ]
 }
