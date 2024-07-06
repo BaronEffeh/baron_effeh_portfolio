@@ -11,7 +11,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/baron_effeh_portfolio" element={<Home />} />
-          <Route path="*" element={<Error404 />} />
+          <Route path="/*" element={<Error404 />} />
         </Routes>
       </div>
     </Router>
