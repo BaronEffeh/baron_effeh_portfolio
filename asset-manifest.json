@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/baron_effeh_portfolio/static/css/main.4c413095.css",
+    "main.js": "/baron_effeh_portfolio/static/js/main.2c6d5bb8.js",
+    "static/media/formComponent.gif": "/baron_effeh_portfolio/static/media/formComponent.b930a686bbcc03a1a8ba.gif",
+    "static/media/todo-app.png": "/baron_effeh_portfolio/static/media/todo-app.0e4d2034a8f87ae74430.png",
+    "static/media/todo-app-dark-mode.png": "/baron_effeh_portfolio/static/media/todo-app-dark-mode.5efea3f17a49e89942e2.png",
+    "static/media/baron-effeh-profile-image.png": "/baron_effeh_portfolio/static/media/baron-effeh-profile-image.e988719487ece3404f38.png",
+    "static/media/notification-page.jpg": "/baron_effeh_portfolio/static/media/notification-page.62a81cb241e52d666916.jpg",
+    "static/media/github-user-api.png": "/baron_effeh_portfolio/static/media/github-user-api.9db8c9b6835dbb722cd4.png",
+    "static/media/github-user-api-dark-mode.png": "/baron_effeh_portfolio/static/media/github-user-api-dark-mode.eeeb4a561504d24574b9.png",
+    "static/media/ui-design.png": "/baron_effeh_portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/baron_effeh_portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/baron_effeh_portfolio/index.html",
+    "main.4c413095.css.map": "/baron_effeh_portfolio/static/css/main.4c413095.css.map",
+    "main.2c6d5bb8.js.map": "/baron_effeh_portfolio/static/js/main.2c6d5bb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c413095.css",
+    "static/js/main.2c6d5bb8.js"
+  ]
+}
