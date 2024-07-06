@@ -1,0 +1,40 @@
+.error404 {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   margin-top: auto;
+}
+
+h1 {
+   font-size: 200px;
+}
+
+p {
+   text-align: center;
+   max-width: 40rem;
+   font-weight: 300;
+   margin-top: 1rem;
+}
+
+button {
+   background: white;
+   border: none;
+   border-radius: 0.5rem;
+   margin: 2rem;
+   padding: 0.75rem 3.5rem;
+}
+
+@media screen and (max-width:720px) {
+   h1 {
+      font-size: 150px;
+   }
+
+   p {
+      max-width: 30rem;
+   }
+
+   button {
+      padding: 0.50rem 2rem;
+   }
+}
